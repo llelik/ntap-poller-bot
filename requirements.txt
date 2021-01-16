@@ -1,0 +1,4 @@
+hurry.filesize==0.9
+netapp_ontap==9.7.3
+hurry==1.1
+pyTelegramBotAPI==3.7.5
